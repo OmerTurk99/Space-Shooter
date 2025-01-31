@@ -4,3 +4,6 @@ Temp/
 obj/
 Packages/
 UserSettings/
+Library/
+.vs/
+*.sln
